@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/ASPxPivotGrid_ChartIntegration/Default.aspx) (VB: [Default.aspx.vb](./VB/ASPxPivotGrid_ChartIntegration/Default.aspx.vb))
+* **[Default.aspx.cs](./CS/ASPxPivotGrid_ChartIntegration/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/ASPxPivotGrid_ChartIntegration/Default.aspx.vb))**
+<!-- default file list end -->
 # How to visualize pivot grid data via the XtraCharts Suite
 
 
