@@ -1,19 +1,19 @@
 <%@ Page Language="vb" AutoEventWireup="true" CodeBehind="Default.aspx.vb"
 	Inherits="ASPxPivotGrid_ChartIntegration._Default" %>
 
-<%@ Register Assembly="DevExpress.XtraCharts.v14.2, Version=14.2.3.0,
+<%@ Register Assembly="DevExpress.XtraCharts.v14.2, Version=14.2.17.0,
 	Culture=neutral, PublicKeyToken=b88d1754d700e49a"
 	Namespace="DevExpress.XtraCharts" TagPrefix="cc1" %>
 
-<%@ Register Assembly="DevExpress.Web.v14.2, Version=14.2.3.0,
+<%@ Register Assembly="DevExpress.Web.v14.2, Version=14.2.17.0,
 	Culture=neutral, PublicKeyToken=b88d1754d700e49a"
 	Namespace="DevExpress.Web" TagPrefix="dxe" %>
 
-<%@ Register Assembly="DevExpress.XtraCharts.v14.2.Web, Version=14.2.3.0,
+<%@ Register Assembly="DevExpress.XtraCharts.v14.2.Web, Version=14.2.17.0,
 	Culture=neutral, PublicKeyToken=b88d1754d700e49a"
 	Namespace="DevExpress.XtraCharts.Web" TagPrefix="dxchartsui" %>
 
-<%@ Register Assembly="DevExpress.Web.ASPxPivotGrid.v14.2, Version=14.2.3.0,
+<%@ Register Assembly="DevExpress.Web.ASPxPivotGrid.v14.2, Version=14.2.17.0,
 	Culture=neutral, PublicKeyToken=b88d1754d700e49a"
 	Namespace="DevExpress.Web.ASPxPivotGrid"
 	TagPrefix="dx" %>
